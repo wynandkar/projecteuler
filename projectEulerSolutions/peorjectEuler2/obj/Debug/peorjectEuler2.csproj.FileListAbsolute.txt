@@ -1,0 +1,8 @@
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\bin\Debug\peorjectEuler2.exe.config
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\bin\Debug\peorjectEuler2.exe
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\bin\Debug\peorjectEuler2.pdb
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\obj\Debug\peorjectEuler2.csproj.AssemblyReference.cache
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\obj\Debug\peorjectEuler2.csproj.SuggestedBindingRedirects.cache
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\obj\Debug\peorjectEuler2.csproj.CoreCompileInputs.cache
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\obj\Debug\peorjectEuler2.exe
+C:\Projects\projectEuler\projectEulerSolutions\peorjectEuler2\obj\Debug\peorjectEuler2.pdb
