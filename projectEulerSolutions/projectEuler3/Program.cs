@@ -36,6 +36,7 @@ namespace projectEuler3
                         if (check == true)
                         {
                             factorList.Add(i);
+                            numberToTest = numberToTest / i;
                             Console.WriteLine(i);
                         }
                     }
